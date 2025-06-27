@@ -10,8 +10,7 @@ A simple command-line **To-Do List** manager written in **Elixir**, with a built
 ---
 
 ## Features
-
--  User Login and Signup (default credentials: `Mbugua` / `38830834`)
+-  User Login and Signup (default credentials: `Kennedy` / `199202k`)
 -  Add new tasks with descriptions and dates
 -  View all current tasks
 -  Delete tasks by number
