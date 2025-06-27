@@ -5,8 +5,8 @@ defmodule TodoListApp do
   """
 
   # Default credentials (you could expand this to a map or DB later)
-  @username "Mbugua"
-  @password "38830834"
+  @username "Kennedy"
+  @password "199202k"
 
   # Entry point
   def verify do
